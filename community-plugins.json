@@ -43356,5 +43356,12 @@
     "author": "kosperun",
     "description": "Convert selected text between English and Ukrainian keyboard layouts, for when you forgot to switch layout before typing - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kosperun/obsidian-layout-switcher-uk-en"
+  },
+  {
+    "id": "mirror-diary-portrait",
+    "name": "镜像 · 日记画像系统",
+    "author": "zhang-shoushou",
+    "description": "一面会说话的镜子——AI 驱动自动分析日记，温柔揭示你的关系、情绪、行为模式和自我规训。由 DeepSeek 提供智能对话和分析。",
+    "repo": "zhang-shoushou/obsidian-mirror-diary-portrait"
   }
 ]
